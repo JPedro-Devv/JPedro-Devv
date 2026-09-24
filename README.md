@@ -1,10 +1,10 @@
 # Olá, eu sou o João Pedro! 👋
 
-### 🚀 Desenvolvedor Back-End Java | Estudante de ADS
+### 🚀 Desenvolvedor Back-End Java | Estudante de Engenharia de Software
 
 Sou apaixonado por construir soluções eficientes e escaláveis. Atualmente, estou focado em aprofundar meus conhecimentos no ecossistema **Java** e **Spring Boot**, enquanto exploro o desenvolvimento Front-End com **Angular**. 
 
-Minha rotina alterna entre as aulas de **Análise e Desenvolvimento de Sistemas** e a prática constante com projetos reais e containers.
+Minha rotina alterna entre as aulas de **Engenharia de Software** e a prática constante com projetos reais e containers.
 
 ---
 
@@ -36,7 +36,7 @@ Minha rotina alterna entre as aulas de **Análise e Desenvolvimento de Sistemas*
 ---
 
 ### 🔭 No que estou trabalhando no momento
-* 🎓 Graduando em **ADS na UnP**.
+* 🎓 Graduando em **Engenharia de Software na UniCesumar**.
 * ☕ Estudando a fundo **Spring Boot**
 * 💻 Desenvolvendo projetos práticos para consolidar os fundamentos de Java.
 
@@ -51,7 +51,7 @@ Minha rotina alterna entre as aulas de **Análise e Desenvolvimento de Sistemas*
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joãopedro-dev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jpedro-devv)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpedro.developer@gmail.com)
 
 ---
